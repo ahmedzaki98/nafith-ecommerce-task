@@ -63,7 +63,7 @@ const AddProduct = () => {
         onSubmit={handleSubmit}
       >
         {({ values, handleSubmit, isSubmitting, setFieldValue }) => (
-          <div className="rounded-xl border border-gray-200 shadow-lg flex flex-col justify-center items-center p-20 w-[80%] mx-auto">
+          <div className="rounded-xl border border-gray-200 shadow-lg flex flex-col justify-center items-center md:p-20 md:w-[80%] mx-auto sm:w-full sm:p-10">
             <h2 className="w-full text-3xl flex items-start font-semibold leading-7 text-primary mb-20">
               {t("products.AddNewProduct")}
             </h2>

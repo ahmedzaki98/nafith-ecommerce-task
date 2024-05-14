@@ -24,14 +24,14 @@ const Cart = () => {
       }));
       const res = await addOrder(newProducts);
       if (res?.status) {
-        toast.success("your order was added");
+        toast.success(t("cart.order"));
         dispatch(resetCart());
         window.scrollTo({
           top: 0,
           behavior: "smooth",
         });
       } else {
-        toast.error("something went wrong");
+        toast.error(t("common.wrongToast"));
       }
     } catch (error) {}
   };

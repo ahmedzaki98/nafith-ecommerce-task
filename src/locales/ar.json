@@ -57,7 +57,8 @@
     "emptyCart": "عربة التسوق فارغة",
     "ContinueShopping": "مواصلة التسوق",
     "productAddedToCart": "تمت إضافة المنتج إلى سلة التسوق بنجاح",
-    "removedProduct": "تم إزالة المنتج من سلة التسوق"
+    "removedProduct": "تم إزالة المنتج من سلة التسوق",
+    "order":"تمت إضافة طلبك"
   },
   "footer": {
     "connected": "تواصل معنا على الشبكات الاجتماعية:",

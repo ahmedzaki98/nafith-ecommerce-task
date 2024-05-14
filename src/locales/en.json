@@ -57,7 +57,8 @@
     "emptyCart": "Your Cart is empty",
     "ContinueShopping": "Continue Shopping",
     "productAddedToCart": "product was added to the cart successfully",
-    "removedProduct": "product removed from cart"
+    "removedProduct": "product removed from cart",
+    "order": "your order was added"
   },
   "footer": {
     "connected": "Get connected with us on social networks:",
