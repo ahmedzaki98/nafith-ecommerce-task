@@ -10,7 +10,6 @@ import { MdOutlineAddShoppingCart } from "react-icons/md";
 const ProductItem = ({ product }) => {
   const { t } = useTranslation();
   const dispatch = useDispatch();
-  const [showStarts, setShowStarts] = useState(true);
 
   const navigate = useNavigate();
   const _id = product.title;
@@ -95,12 +94,8 @@ const ProductItem = ({ product }) => {
         </div>
         <p className="text-base font-bold text-primary">{product.price}</p>
       </div>
-      <div class="flex flex-row justify-between items-center pt-2 pb-1">
-        <div>
-          {showStarts && (
-            <StarRating rating={product?.rating?.rate} width="4" height="4" />
-          )}
-        </div>
+      <div class="grid grid-cols-[50%,40%] justify-between items-center pt-2 pb-1">
+        <StarRating rating={product?.rating?.rate} width="4" height="4" />
         <div className="flex justify-center items-center">
           <p class="ms-1 text-sm font-medium text-gray-500 dark:text-gray-400">
             {product?.rating?.rate}

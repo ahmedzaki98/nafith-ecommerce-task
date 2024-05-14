@@ -65,7 +65,6 @@ const StarRating = ({ rating, width, height }) => {
         </svg>
       );
     } else if (decimalPart > 0) {
-      console.log("🚀 ~ generateStars ~ decimalPart:", decimalPart.toFixed(2));
       stars.push(
         <svg
           className={`w-${width} h-${height} text-yellow-300 me-1`}
@@ -117,7 +116,7 @@ const StarRating = ({ rating, width, height }) => {
       );
     }
 
-    return stars;
+    return stars?.map((star) => star);;
   };
 
   return (
