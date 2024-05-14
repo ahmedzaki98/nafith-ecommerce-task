@@ -39,7 +39,7 @@ const usePagination = (itemsPerPage) => {
 
     return (
       <div ref={containerRef}>
-        <div className="mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-1 lg:grid-cols-3 xl:gap-x-4">
+        <div className="mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-1 lg:grid-cols-3 md:grid-cols-2 xl:gap-x-4">
           {currentItems?.map((item) => (
             <ProductItem product={item} />
           ))}
