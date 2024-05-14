@@ -1,0 +1,80 @@
+{
+  "shop": {
+    "title": "المتجر",
+    "search": "ابحث عن منتج",
+    "products": "المنتجات",
+    "ShopByCategory": "تسوق حسب الفئة",
+    "electronics": "إلكترونيات",
+    "jewelery": "مجوهرات",
+    "men_clothing": "ملابس رجالية",
+    "women_clothing": "ملابس نسائية",
+    "Sort_by": "ترتيب حسب",
+    "price": "السعر",
+    "rate": "التقييم",
+    "productPrice": "السعر :",
+    "out_of": "من",
+    "clear": "إعادة ضبط"
+  },
+  "products": {
+    "empty": "لا توجد منتجات",
+    "add_to_cart": "إضافة إلى السلة",
+    "description": "الوصف",
+    "AddNewProduct": "أضف منتج جديد",
+    "Step1": "الخطوة الأولى",
+    "Step2": "الخطوة الثانية",
+    "title": "اسم المنتج",
+    "titlePlaceholder": "اسم المنتج ...",
+    "Price": "السعر",
+    "PricePlaceholder": "السعر ...",
+    "descriptionPlaceholder": "الوصف ...",
+    "Next": "التالي",
+    "Category": "الفئة",
+    "SelectCategory": "اختر الفئة",
+    "ProductPhoto": "صورة المنتج",
+    "UploadImage": "قم برفع الصورة",
+    "Previous": "السابق",
+    "Submit": "اضف",
+    "titleValidation": "اسم المنتج مطلوب",
+    "PriceValidation": "السعر مطلوب",
+    "PriceValidation2": "يجب أن يكون السعر رقمًا إيجابيًا",
+    "descriptionValidation": "الصوف مطلوب",
+    "categoryValidation": "الفئة مطلوبة",
+    "imageValidation": "صورة المنتج مطلوبة",
+    "productToast": "تمت إضافة المنتج بنجاح"
+  },
+  "navbar": {
+    "Shop": "المتجر",
+    "AddProduct": "إضافة منتج",
+    "cart": "السلة"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "total": "إلاجمالي",
+    "Subtotal": "المجموع الفرعي",
+    "ShippingCharge": "رسوم الشحن",
+    "Checkout": "دفع",
+    "thanks": "شكرا للتسوق لدينا",
+    "emptyCart": "عربة التسوق فارغة",
+    "ContinueShopping": "مواصلة التسوق",
+    "productAddedToCart": "تمت إضافة المنتج إلى سلة التسوق بنجاح",
+    "removedProduct": "تم إزالة المنتج من سلة التسوق"
+  },
+  "footer": {
+    "connected": "تواصل معنا على الشبكات الاجتماعية:",
+    "products": "المنتجات",
+    "Clothes": "ملابس",
+    "electronics": "إلكترونيات",
+    "jewelery": "مجوهرات",
+    "cart": "السلة",
+    "UsefulLinks": "روابط مفيدة",
+    "Contacts": "جهات الاتصال"
+  },
+  "common": {
+    "loading": "تحميل ...",
+    "readMore": "...اقرأ المزيد",
+    "showLess": " أظهر أقل",
+    "Arabic": "االغه العربية",
+    "English": "اللغه الانجليزية",
+    "wrongToast": "حدث خطأ ما"
+  }
+}

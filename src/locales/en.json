@@ -1,0 +1,80 @@
+{
+  "shop": {
+    "title": "shop",
+    "search": "Search your products here",
+    "products": "Products",
+    "ShopByCategory": "Shop by Category",
+    "electronics": "electronics",
+    "jewelery": "jewelery",
+    "men_clothing": "men's clothing",
+    "women_clothing": "women's clothing",
+    "Sort_by": "Sort by",
+    "price": "price",
+    "rate": "rate",
+    "productPrice": "Price:",
+    "out_of": "out of",
+    "clear": "clear"
+  },
+  "products": {
+    "empty": "There are no products",
+    "add_to_cart": "Add to cart",
+    "description": "Description",
+    "AddNewProduct": "Add New Product",
+    "Step1": "Step 1",
+    "Step2": "Step 2",
+    "title": "Title",
+    "titlePlaceholder": "title ...",
+    "Price": "Price",
+    "PricePlaceholder": "price ...",
+    "descriptionPlaceholder": "description ...",
+    "Next": "Next",
+    "Category": "Category",
+    "SelectCategory": "select a category",
+    "ProductPhoto": "Product photo",
+    "UploadImage": "Upload an image",
+    "Previous": "Previous",
+    "Submit": "Submit",
+    "titleValidation": "Title is required",
+    "PriceValidation": "Price is required",
+    "PriceValidation2": "Price must be a positive number",
+    "descriptionValidation": "Description is required",
+    "categoryValidation": "Category is required",
+    "imageValidation": "Image is required",
+    "productToast": "product was added successfully"
+  },
+  "navbar": {
+    "Shop": "Shop",
+    "AddProduct": "Add Product",
+    "cart": "Cart"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "total": "total",
+    "Subtotal": "Subtotal",
+    "ShippingCharge": "Shipping Charge",
+    "Checkout": "Checkout",
+    "thanks": "Thank you for shopping with us",
+    "emptyCart": "Your Cart is empty",
+    "ContinueShopping": "Continue Shopping",
+    "productAddedToCart": "product was added to the cart successfully",
+    "removedProduct": "product removed from cart"
+  },
+  "footer": {
+    "connected": "Get connected with us on social networks:",
+    "products": "Products",
+    "Clothes": "Clothes",
+    "electronics": "Electronics",
+    "jewelery": "Jewelry",
+    "cart": "Cart",
+    "UsefulLinks": "Useful Links",
+    "Contacts": "Contacts"
+  },
+  "common": {
+    "loading": "Loading...",
+    "readMore": "...read more",
+    "showLess": " show less",
+    "Arabic": "Arabic",
+    "English": "English",
+    "wrongToast": "something went wrong"
+  }
+}
